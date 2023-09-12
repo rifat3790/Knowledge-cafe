@@ -1,0 +1,42 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/Fh7r4S6/1.jpg",
+        "title": "Secrets of the Enchanted Forest",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/7S655Jc/boy1.png",
+        "posted_date": "2023-08-15",
+        "reading_time": "25",
+        "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.ibb.co/9vmJJVr/2.png",
+        "title": "The Midnight Detective",
+        "author": "David Smith",
+        "author_img": "https://i.ibb.co/qWGMtPQ/boy2.jpg",
+        "posted_date": "2023-09-02",
+        "reading_time": "30",
+        "hashtags": ["#Mystery", "#Crime", "#Detective"]
+    },
+    {
+        "id": 24680,
+        "cover": "https://i.ibb.co/h8ChSK1/3.png",
+        "title": "Love in the City Lights",
+        "author": "Sarah Adams",
+        "author_img": "https://i.ibb.co/7CpQcVd/girl1.jpg",
+        "posted_date": "2023-07-20",
+        "reading_time": "20",
+        "hashtags": ["#Romance", "#CityLife", "#LoveStory"]
+    },
+    {
+        "id": 13579,
+        "cover": "https://i.ibb.co/9NVPdxb/4.jpg",
+        "title": "The Quantum Paradox",
+        "author": "Michael Turner",
+        "author_img": "https://i.ibb.co/F4k4rZM/girl2.jpg",
+        "posted_date": "2023-08-05",
+        "reading_time": "40",
+        "hashtags": ["#ScienceFiction", "#QuantumPhysics", "#Adventure"]
+    }
+]
