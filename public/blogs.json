@@ -7,7 +7,7 @@
         "author_img": "https://i.ibb.co/7S655Jc/boy1.png",
         "posted_date": "2023-08-15",
         "reading_time": "25",
-        "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+        "hashtags": ["#Fantasy", "#Adventure"]
     },
     {
         "id": 67890,
@@ -17,7 +17,7 @@
         "author_img": "https://i.ibb.co/qWGMtPQ/boy2.jpg",
         "posted_date": "2023-09-02",
         "reading_time": "30",
-        "hashtags": ["#Mystery", "#Crime", "#Detective"]
+        "hashtags": ["#Mystery", "#Crime"]
     },
     {
         "id": 24680,
@@ -27,7 +27,7 @@
         "author_img": "https://i.ibb.co/7CpQcVd/girl1.jpg",
         "posted_date": "2023-07-20",
         "reading_time": "20",
-        "hashtags": ["#Romance", "#CityLife", "#LoveStory"]
+        "hashtags": ["#Romance", "#CityLife"]
     },
     {
         "id": 13579,
@@ -37,6 +37,6 @@
         "author_img": "https://i.ibb.co/F4k4rZM/girl2.jpg",
         "posted_date": "2023-08-05",
         "reading_time": "40",
-        "hashtags": ["#ScienceFiction", "#QuantumPhysics", "#Adventure"]
+        "hashtags": ["#ScienceFiction", "#QuantumPhysics"]
     }
 ]
