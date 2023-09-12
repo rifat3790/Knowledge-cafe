@@ -13,7 +13,7 @@ const Blogs = () => {
 
     return (
         <div>
-            
+            <h1>Blogs: {blogs.length}</h1>
         </div>
     );
 };
